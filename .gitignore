@@ -1,0 +1,14 @@
+# Node.js riippuvuudet
+node_modules/
+
+# Lokit
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ympäristömuuttujat
+.env
+
+# Käyttöjärjestelmän roskatiedostot
+.DS_Store
+Thumbs.db
